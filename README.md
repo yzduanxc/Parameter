@@ -1,2 +1,4 @@
 # Parameter
 Energetic materials
+
+model文件中的model为预训练模型，模型训练采用Matlab环境下的Libsvm工具箱进行，在使用模型时也请先安装libsvm。
